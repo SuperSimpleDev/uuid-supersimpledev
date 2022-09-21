@@ -1,0 +1,17 @@
+{
+  "name": "uuid-supersimpledev",
+  "version": "1.0.0",
+  "description": "uuid external library used in SuperSimpleDev coding courses.",
+  "main": "uuid.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://SuperSimpleDev@github.com/SuperSimpleDev/uuid-supersimpledev.git"
+  },
+  "keywords": [],
+  "author": "Simon <simon@supersimple.dev> (https://youtube.com/c/SuperSimpleDev)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SuperSimpleDev/uuid-supersimpledev/issues"
+  },
+  "homepage": "https://github.com/SuperSimpleDev/uuid-supersimpledev"
+}
