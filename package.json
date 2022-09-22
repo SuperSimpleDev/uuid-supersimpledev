@@ -1,6 +1,6 @@
 {
   "name": "uuid-supersimpledev",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "uuid external library used in SuperSimpleDev coding courses.",
   "main": "uuid.js",
   "repository": {
