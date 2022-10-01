@@ -12,8 +12,8 @@ window.uuid = function() {
    * numbers between 0 and 255, this means there are
    * 256^16 possible IDs (equal to 300000000... 38 zeroes)
    *
-   * This is a really big number (this is like how many
-   * atoms there are on Earth), so we can be confident
+   * This is a really big number (more than the number
+   * of grains of sand on Earth), so we can be confident
    * that this sequence of 16 numbers will be unique.
    *
    * Here, we use window.crypto to generate these random
